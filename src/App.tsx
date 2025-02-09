@@ -11,7 +11,7 @@ function App() {
     return (
         <div>
             <div>
-                <h1>login</h1>
+                <h1>Macsimus</h1>
                 <input type="text" placeholder="login"/>
             </div>
             <div>
