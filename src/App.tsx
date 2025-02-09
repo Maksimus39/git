@@ -19,6 +19,7 @@ function App() {
                 <img src={images} alt="avatar"/>
             </div>
             <button onClick={logoutHandler}>logout</button>
+            <h2>Minakov Macsim</h2>
         </div>
     );
 }
