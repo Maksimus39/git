@@ -20,6 +20,10 @@ function App() {
             </div>
             <button onClick={logoutHandler}>logout</button>
             <h2>Minakov Macsim</h2>
+            <h2>Minakov Macsim</h2>
+            <h2>Minakov Macsim</h2>
+            <h2>Minakov Macsim</h2>
+            <h2>Minakov Macsim</h2>
         </div>
     );
 }
