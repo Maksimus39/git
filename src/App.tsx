@@ -23,7 +23,12 @@ function App() {
             <h2>Minakov Macsim</h2>
             <h2>Minakov Macsim</h2>
             <h2>Minakov Macsim</h2>
-            <h2>Minakov Macsim</h2>
+            <h2>Minakov Macsim 11111111111111111111111</h2>
+            <h2>Minakov Macsim 11111111111111111111111</h2>
+            <h2>Minakov Macsim 11111111111111111111111</h2>
+            <h2>Minakov Macsim 11111111111111111111111</h2>
+            <h2>Minakov Macsim 11111111111111111111111</h2>
+            <h2>Minakov Macsim 11111111111111111111111</h2>
         </div>
     );
 }
