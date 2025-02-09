@@ -27,8 +27,11 @@ function App() {
             <h2>Minakov Macsim 11111111111111111111111</h2>
             <h2>Minakov Macsim 11111111111111111111111</h2>
             <h2>Minakov Macsim 11111111111111111111111</h2>
-            <h2>Minakov Macsim 11111111111111111111111</h2>
-            <h2>Minakov Macsim 11111111111111111111111</h2>
+            <h2>Minakov Macsim ssssssss</h2>
+            <h2>Minakov Macsim ssssssss</h2>
+            <h2>Minakov Macsim ssssssss</h2>
+            <h2>Minakov Macsim ssssssss</h2>
+
         </div>
     );
 }
