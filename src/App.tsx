@@ -5,16 +5,16 @@ import images from './assets/images/images.jpeg'
 function App() {
     return (
         <div>
-            <h1>login</h1>
-            <input type="text" placeholder="login"/>
+            <div>
+                <h1>login</h1>
+                <input type="text" placeholder="login"/>
+            </div>
+            <div>
+                <h2>profile</h2>
+                <img src={images} alt="avatar"/>
+            </div>
         </div>
     );
-  return (
-   <div>
-       <h1>profile</h1>
-       <img src={images} alt="avatar"/>
-   </div>
-  );
 }
 
 export default App;
