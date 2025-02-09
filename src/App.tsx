@@ -1,9 +1,13 @@
 import React from 'react';
 import './App.css';
+import images from './assets/images/images.jpeg'
 
 function App() {
   return (
-   <div></div>
+   <div>
+       <h1>profile</h1>
+       <img src={images} alt="avatar"/>
+   </div>
   );
 }
 
